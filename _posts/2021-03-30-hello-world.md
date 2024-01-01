@@ -12,10 +12,6 @@ typora-root-url: ../../Nifan666.github.io
 math: false
 mermaid: true
 
-image:
-  src: /assets/blog_res/2021-03-30-hello-world.assets/huoshan.jpg
-  alt: 签约成功
-
 ---
 
 # 感谢关注～
